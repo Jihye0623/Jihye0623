@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=welcome!&fontColor=808080&height=250&fontAlignY=40)
+
 
 <!--
 **Jihye0623/Jihye0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
