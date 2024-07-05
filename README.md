@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=WELCOME!&fontColor=808080&height=250&fontAlignY=40)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye0623)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye0623)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jihye0623/Jihye0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
