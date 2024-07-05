@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Welcom%to%jihye's%GitHub!&fontColor=808080&height=250&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Welcome!&fontColor=808080&height=250&fontAlignY=40)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
