@@ -63,6 +63,9 @@
 </div>
 
 
+<br>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye0623)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
