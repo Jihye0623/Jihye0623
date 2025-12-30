@@ -69,8 +69,9 @@
 <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye0623)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye0623&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=radical)
 
 
 <!--
