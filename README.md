@@ -70,8 +70,8 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default)
 
 
 <!--
