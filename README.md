@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Jihye's%20Github&fontColor=808080&height=250&fontAlignY=40" width="100%" alt="header" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Jihye's%20Github&fontColor=808080&height=250&fontAlignY=40)
 
-<h2 align="center"> 🔨 Once I've used 🔨 </h2>
-<div style="display:flex; flex-direction:column; align-items:flex-start;", align="center">
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -70,9 +68,8 @@
 
 <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default" height="180" alt="stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default" height="180" alt="streak" />
-  
-  <br/> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default" height="180" alt="top langs" />
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default)
 </div>
