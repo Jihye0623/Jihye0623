@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Jihye's%20Github&fontColor=808080&height=250&fontAlignY=40)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BEE3BA&text=Jihye's%20Github&fontColor=808080&height=250&fontAlignY=40" width="100%" alt="header" />
+</div>
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<h2 align="center"> 🔨 Once I've used 🔨 </h2>
+<div style="display:flex; flex-direction:column; align-items:flex-start;", align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -68,23 +70,9 @@
 
 <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default)
-
-
-<!--
-**Jihye0623/Jihye0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default" height="180" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default" height="180" alt="streak" />
+  
+  <br/> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default" height="180" alt="top langs" />
+</div>
