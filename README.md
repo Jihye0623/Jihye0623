@@ -69,7 +69,8 @@
 <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=jihye0623&show_icons=true&theme=default" height="170" alt="github stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jihye0623&layout=compact&theme=default" height="170" alt="top langs"/>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jihye0623&theme=default)
 </div>
